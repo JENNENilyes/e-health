@@ -16,7 +16,7 @@
  */
 /*     brand Colors              */
 /* navbar color */
-/*
+
 :root {
   --blue: #5e72e4;
   --indigo: #5603ad;
@@ -13655,7 +13655,7 @@ select.form-control option {
     background-color: black;
     color: white;
   }
-*/
+
   
 
 /*# sourceMappingURL=black-dashboard-react.css.map */
